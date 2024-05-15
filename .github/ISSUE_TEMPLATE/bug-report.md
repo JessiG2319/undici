@@ -2,8 +2,9 @@
 name: Bug Report
 about: Report an issue
 title: ''
-labels: bug
-assignees: ''
+labels: bug, dependencies, documentation, duplicate, enhancement, github_actions,
+  good first issue, invalid, javascript, wontfix
+assignees: JessiG2319
 
 ---
 
