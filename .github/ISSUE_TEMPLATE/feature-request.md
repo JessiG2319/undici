@@ -2,8 +2,9 @@
 name: Feature Request
 about: Make a suggestion on a feature or improvement for the project
 title: ''
-labels: enhancement
-assignees: ''
+labels: dependencies, documentation, duplicate, enhancement, github_actions, javascript,
+  question, wontfix
+assignees: JessiG2319
 
 ---
 
